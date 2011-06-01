@@ -1,0 +1,15 @@
+/* Context Admin: Applications CSS */
+  /* Application List CSS -- Path = applications */
+    #ca-applications-template-one .pane-ca-applications-panel-pane-1 .view-display-id-panel_pane_1 .views-view-grid tr td {width: 25%; text-align: center; vertical-align: bottom;}
+
+  /* Application Node CSS */
+    /* Template One */
+      #ca-applications-template-one .pane-ca-applications-panel-pane-8 .view-display-id-panel_pane_8 .views-field-field-ca-applications-images-fid {float: left; margin: 0 10px 10px 0;}
+      #ca-applications-template-one .pane-ca-applications-panel-pane-8 .view-display-id-panel_pane_8 .views-field-field-ca-applications-images-fid-1 {clear: left; float: left; margin-right: 10px; width: 200px;}
+      #ca-applications-template-one .pane-ca-applications-panel-pane-8 .view-display-id-panel_pane_8 .views-field-field-ca-applications-images-fid-1 .field-item {float: left; margin-right: 5px;}
+      #ca-applications-template-one .pane-ca-applications-panel-pane-4, #ca-applications-template-one .pane-ca-applications-panel-pane-6 {clear: both; padding-top: 10px; border-top: 1px solid #D2D2D2;}
+      #ca-applications-template-one .pane-ca-applications-panel-pane-4 .view-display-id-panel_pane_4 .views-view-grid tr td, #ca-applications-template-one .pane-ca-applications-panel-pane-6 .view-display-id-panel_pane_6 .views-view-grid tr td {width: 25%; text-align: center; vertical-align: bottom;}
+
+  /* Application Block CSS */
+    /* Template One */
+      .ca-applications-template-one .views-view-grid tr td {width: 20%; text-align: center;}
